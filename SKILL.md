@@ -1,6 +1,7 @@
 ---
 name: linkedin-profile-score
 description: "Audit and score a LinkedIn profile from its native CSV data export. Analyzes profile sections for recruiter visibility, keyword optimization, and credibility. Use when the user provides a folder of CSV files from a LinkedIn data export and wants to optimize their profile for job searching. Triggers on: audit my LinkedIn, review my profile, LinkedIn optimization, profile score, score my profile, LinkedIn audit, optimize my LinkedIn, LinkedIn CSV. Do NOT use for writing LinkedIn posts, managing connections, job application tracking, or general career coaching."
+---
 
 # LinkedIn Profile Score
 
