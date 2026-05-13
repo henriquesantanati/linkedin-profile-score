@@ -171,31 +171,37 @@ Let us connect. Happy to chat about data engineering challenges."
 These 6 items cannot be verified from your data export. Check each one yourself:
 
 ### 1. Custom URL
+
 **Where:** LinkedIn, Settings, Public profile, Edit your custom URL (right side panel)
 **What to look for:** Your URL should be linkedin.com/in/yourname with no random numbers or characters.
 **If it needs fixing:** Click "Edit" next to your URL, type your preferred format (e.g., firstname-lastname or firstname-lastname-dev), and save. This URL goes on your resume and portfolio.
 
 ### 2. Profile Photo
+
 **Where:** Your profile. Look at your photo in the circle at the top.
 **What to look for:** Professional headshot, good lighting, neutral background, head and shoulders visible. No group shots, selfies, sunglasses, or vacation photos.
 **If it needs fixing:** Get a photo taken against a plain wall with natural light from a window. Wear what you would wear to an interview. Crop to head and shoulders. Upload via the camera icon on your profile photo.
 
 ### 3. Cover Photo
+
 **Where:** The wide banner image behind your profile photo.
 **What to look for:** A high-resolution image relevant to your field. Not the default blue gradient. No blurry images or text that gets cut off on mobile.
 **If it needs fixing:** Go to Canva.com, search "LinkedIn banner", pick a clean template related to tech/data, customize, download, upload via the camera icon on your banner.
 
 ### 4. Featured Section
+
 **Where:** Below your About section. If you do not see it, it has not been added yet.
 **What to look for:** At least one item: a GitHub repo, blog post, presentation, or portfolio link.
 **If it needs fixing:** On your profile, click "Add profile section", then "Recommended", then "Add featured". Add a link to your best public work (GitHub profile, a technical blog post, or a conference talk).
 
 ### 5. Open to Work
+
 **Where:** Your profile, "Open to" button (below your headline), "Finding a new job"
 **What to look for:** Specific job titles (1-3), preferred locations or "Remote", employment type selected. Visibility set to "Recruiters only" if you do not want your current employer to see.
 **If it needs fixing:** Click "Open to", then "Finding a new job", fill in the job titles you are targeting (e.g., "Senior Data Engineer", "Staff Data Engineer"), set locations, and save.
 
 ### 6. Profile Visibility
+
 **Where:** Settings, Visibility, Edit your public profile
 **What to look for:** Your profile should be set to "Public" so recruiters outside your network can find you in search. All sections should be visible.
 **If it needs fixing:** Go to Settings, Visibility, toggle "Public profile" on. Under "Edit your public profile", make sure all sections are checked (experience, education, skills, etc.).
