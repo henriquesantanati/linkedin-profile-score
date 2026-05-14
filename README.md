@@ -54,6 +54,12 @@ Upload `SKILL.md` along with `references/scoring_rubric.md` and `references/manu
 
 See [assets/sample_report.md](assets/sample_report.md) for an example output.
 
+## Disclaimer
+
+This tool generates recommendations based on general LinkedIn optimization best practices and recruiter search behavior patterns. These are suggestions, not rules. You know your industry, your audience, and your career better than any automated analysis can. Use your own judgment about which recommendations to apply and which to ignore.
+
+For example, the tool might flag a term as too niche when it's actually well-known in your field, or suggest removing something that differentiates you. Treat the output as a starting point for reflection, not a checklist to follow blindly.
+
 ## License
 
 MIT
