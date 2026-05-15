@@ -1,10 +1,10 @@
 # 🎯 LinkedIn Profile Score
 
-## 59/100 — Grade C
+## 66/100 — Grade C
 
 Your experience is solid but recruiters cannot find you. The headline is generic, the About section is almost empty, and your skills list is diluted with soft skills that add no search value.
 
-**Fix priority:** Headline → About → Skills → Activity → Interests → Experience Titles → Experience Descriptions → Contact Info
+**Fix priority:** Headline → About → Skills → Experience Descriptions → Activity → Interests → Experience Titles → Contact Info
 
 
 ## Scores
@@ -12,7 +12,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 | Section | Score | |
 |---------|-------|---|
 | Headline | 5/10 | 🔴 |
-| About | 3/10 | 🔴 |
+| About | 2/10 | 🔴 |
 | Skills | 6/10 | 🟡 |
 | Activity | 5/10 | 🔴 |
 | Interests | 4/10 | 🔴 |
@@ -20,7 +20,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 | Experience Descriptions | 7/10 | 🟡 |
 | Contact Info | 7/10 | 🟡 |
 
-✅ **All good:** Name (10), Location (10), Duration (10), Connections (10), Education (8), Certifications (8), Profile Language (10)
+✅ **All good:** Name (10), Location (10), Experience Duration (10), Connections (10), Education (8), Certifications (8), Profile Language (10)
 
 
 ## What to Fix
@@ -39,11 +39,19 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### 🔴 About (3/10)
+### 🔴 About (2/10)
 
 **Problem:** Two sentences with no structure. Recruiters skim this in 5 seconds and yours gives them nothing to work with.
 
-**Recommendation:** Rewrite with structure: opening + skills + highlights + goals + CTA (150-200 words).
+**Recommendation:** Rewrite to:
+
+"Data Engineer with 6 years of experience building batch and real-time pipelines at scale. Currently at TechCorp, processing 50M+ events daily using Python, Spark, and Airflow on AWS.
+
+Key expertise: ETL pipeline design, data warehouse architecture (Snowflake, Redshift), workflow orchestration (Airflow, Step Functions), and infrastructure as code (Terraform).
+
+Previously built the analytics platform at StartupX from scratch, reducing reporting latency from 24 hours to 15 minutes for a team of 40 analysts.
+
+Looking for Senior Data Engineer roles where I can architect systems from the ground up. Open to remote positions across Europe."
 
 **Steps:**
 1. Click the pencil icon on your About section

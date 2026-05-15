@@ -1,6 +1,6 @@
 # Scoring Rubric
 
-Detailed criteria for each of the 15 automated sections. Each section is scored 1-5.
+Detailed criteria for each of the 15 automated sections. Each section is scored 1-10, using the anchors below as reference points (1-2 = poor, 3-4 = weak, 5-6 = average, 7-8 = good, 9-10 = excellent).
 
 ---
 
@@ -105,7 +105,7 @@ The About section is an elevator pitch. It should be concise, scannable, and key
 
 | Score | Criteria |
 |-------|----------|
-| 5 | Structured (opening + skills + highlights + goals + CTA). 150-300 words. Includes keywords naturally. Professional yet engaging tone. |
+| 5 | Structured (opening + skills + highlights + goals + CTA). 150-250 words. Includes keywords naturally. Professional yet engaging tone. |
 | 4 | Good content but missing one element (no CTA, no goals, or slightly too long). |
 | 3 | Present but either too generic, too long (wall of text), or missing clear structure. |
 | 2 | Very short (1-2 sentences), overly personal, or reads like a cover letter template. |
@@ -247,7 +247,7 @@ Following relevant companies, influencers, and groups signals intent to LinkedIn
 - Join 3-5 professional groups (even if you don't post in them)
 - This signals to recruiters AND the algorithm what you're interested in
 
-**Note:** LinkedIn's CSV export may not include full interest data. If the data is unavailable, exclude this section from scoring and redistribute its weight proportionally. Inform the user this section exists and suggest they review it manually.
+**Note:** LinkedIn's CSV export may not always include full interest data. If unavailable, inform the user this section exists and suggest they review it manually.
 
 
 ## 10. Profile Language (Weight: 4%)
@@ -328,7 +328,8 @@ Certifications provide additional keyword surface area and signal ongoing learni
 |-------|----------|
 | 5 | 1-3 relevant, recent certifications from recognized institutions (AWS, Google Cloud, etc.) that reinforce target role keywords. |
 | 4 | Relevant certifications present (4-6 is fine) but slightly dated or not perfectly aligned with current direction. |
-| 3 | No certifications present (neutral baseline), or mix of relevant and irrelevant certifications from unknown institutions. |
+| 3 | No certifications present (neutral — no keyword benefit, nothing harmful). |
+| 2.5 | Mix of relevant and irrelevant certifications, or from unknown institutions. |
 | 2 | Only outdated or irrelevant certifications that add no keyword value. |
 | 1 | Flooded with low-value credentials ("HTML Basics", "Introduction to...") that dilute credibility. |
 

@@ -25,9 +25,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
 - Recommendations as an automated scored section (moved to manual checklist as optional improvement)
 
-Total automated sections: now 15 (was 14 in v1.x).
+Total automated sections: now 15 (was 14 in v1.x). Manual checklist: now 7 items (was 6).
 
-## [1.2.0] - 2026-05-15
+## [1.2.0] - 2026-05-15 (earlier same day)
 
 ### Added
 - CHANGELOG.md in Keep a Changelog format

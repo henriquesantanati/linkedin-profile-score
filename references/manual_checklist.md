@@ -2,14 +2,10 @@
 
 These 7 items cannot be verified from the LinkedIn data export. Present them to the user as a guided review after completing the automated analysis.
 
-Each "yes" adds points to the final score (weighted by importance). Maximum bonus: +12 points on top of the 88-point automated scale.
-
-For each "no" answer, provide the specific recommendation listed below.
-
-Items are ordered by impact — address them in this order.
+These items do not affect the numerical score — they are presented as a separate action checklist ordered by impact. For each item, explain what to check and how to fix it if needed.
 
 
-## 1. Open to Work (+3 points)
+## 1. Open to Work
 
 **Question:** Have you configured the "Open to Work" preferences with specific job titles, locations, and employment types you're targeting?
 
@@ -23,7 +19,7 @@ Items are ordered by impact — address them in this order.
 - Review and update these preferences monthly — stale preferences reduce match quality
 
 
-## 2. Profile Photo (+2 points)
+## 2. Profile Photo
 
 **Question:** Do you have a professional headshot with good lighting, a neutral background, and industry-appropriate attire?
 
@@ -38,7 +34,7 @@ Items are ordered by impact — address them in this order.
 - No heavy filters or editing
 
 
-## 3. Privacy and Visibility Settings (+2 points)
+## 3. Privacy and Visibility Settings
 
 **Question:** Have you verified that your profile is visible to recruiters (public profile enabled, not restricted to connections only)?
 
@@ -51,7 +47,7 @@ Items are ordered by impact — address them in this order.
 - Ensure your profile is set to "Public" for maximum discoverability
 
 
-## 4. Recommendations (+2 points)
+## 4. Recommendations
 
 **Question:** Do you have at least 2 recommendations from diverse sources (managers, peers, reports) that mention specific skills and achievements?
 
@@ -67,7 +63,7 @@ Items are ordered by impact — address them in this order.
 **Important:** This is a "nice to have" — not having recommendations is not a red flag. Recruiters care far more about your headline, skills, and experience descriptions. Only invest time here after the higher-priority items are addressed.
 
 
-## 5. Featured Section (+1 point)
+## 5. Featured Section
 
 **Question:** Do you have at least one item in your Featured section (article, portfolio link, GitHub repo, presentation, or certification)?
 
@@ -81,7 +77,7 @@ Items are ordered by impact — address them in this order.
 - A notable certification badge
 
 
-## 6. Custom URL (+1 point)
+## 6. Custom URL
 
 **Question:** Is your LinkedIn URL customized (e.g., linkedin.com/in/yourname) without random numbers or characters?
 
@@ -90,7 +86,7 @@ Items are ordered by impact — address them in this order.
 **If no:** Go to Settings → Public profile → Edit your custom URL. Use your name or professional brand (e.g., linkedin.com/in/johnsmith-dev). Avoid nicknames.
 
 
-## 7. Cover Photo (+1 point)
+## 7. Cover Photo
 
 **Question:** Do you have a cover photo that is high-resolution, relevant to your industry or personal brand, and free of poorly positioned text?
 

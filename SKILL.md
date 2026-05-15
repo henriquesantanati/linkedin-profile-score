@@ -51,7 +51,7 @@ Read all available CSV files. Parse them as standard CSV (comma-delimited, with 
 ### Step 3: Automated Analysis
 
 Analyze 15 sections using the criteria in `references/scoring_rubric.md`. For each section:
-- Assign a score from 1 to 5
+- Assign a score from 1 to 10 (use rubric 1-5 anchors as guidance, full 1-10 range for granularity)
 - Identify specific issues found
 - Write one concrete recommendation (what to change and why)
 
@@ -89,11 +89,11 @@ Read `references/manual_checklist.md` for the full checklist with context. Do NO
 ### Step 5: Calculate Score and Generate Report
 
 **Score formula:**
-- Each section is scored 1-5 internally, then multiplied by 2 for the report display (2-10 scale)
-- Automated score = (weighted average of displayed scores / 10) × 88. Example: if weighted avg is 7.5, automated = 7.5/10 × 88 = 66
-- Manual checklist items add up to +12 bonus points (see manual_checklist.md for per-item values)
-- Final score = automated + manual bonus, capped at 100
+- Score each section on a 1-10 scale using the criteria in scoring_rubric.md as guidance (rubric defines 1-5 anchors; use the full 1-10 range for finer granularity)
+- Final score = weighted average of all section scores, expressed as a percentage (0-100)
+- Formula: sum(section_score × section_weight) / 10 × 100. Example: if weighted sum is 6.7, score = 67/100
 - If data is missing for a section, exclude it and redistribute its weight proportionally among remaining sections
+- The manual checklist is presented separately as guidance — it does not affect the numerical score
 
 **Grade thresholds:**
 - A (90-100): Profile is optimized for recruiter visibility.
