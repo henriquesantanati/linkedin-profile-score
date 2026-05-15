@@ -25,7 +25,6 @@ This skill requires the user's LinkedIn data exported as CSV files (the default 
 | `Profile.csv` | Name, headline, location, summary, industry |
 | `Positions.csv` | Work history (title, company, description, dates) |
 | `Skills.csv` | Listed skills |
-| `Recommendations Received.csv` | Recommendations from others |
 | `Connections.csv` | Network connections |
 | `Shares.csv` or `Posts.csv` | Posts and activity |
 | `Certifications.csv` | Licenses and certifications |
@@ -46,35 +45,36 @@ Read all available CSV files. Parse them as standard CSV (comma-delimited, with 
 
 ### Step 3: Automated Analysis
 
-Analyze 14 sections using the criteria in `references/scoring_rubric.md`. For each section:
+Analyze 16 sections using the criteria in `references/scoring_rubric.md`. For each section:
 - Assign a score from 1 to 5
 - Identify specific issues found
 - Write one concrete recommendation (what to change and why)
 
 If the user specified a target role, incorporate keyword gap analysis directly into each section's recommendation. When suggesting a rewritten headline, About section, or experience bullet, include the missing keywords naturally. Do not create a separate keywords section — the fixes should already contain the right keywords.
 
-The 14 sections and their weights:
+The 16 sections and their weights:
 
 | Section | Weight | Source File |
 |---------|--------|-------------|
 | Headline | 15% | Profile.csv |
-| Experience Titles | 8% | Positions.csv |
+| Skills | 13% | Skills.csv |
 | Experience Descriptions | 12% | Positions.csv |
-| Experience Duration | 5% | Positions.csv |
-| Skills | 12% | Skills.csv |
 | About | 10% | Profile.csv |
-| Recommendations | 8% | Recommendations Received.csv |
-| Connections | 5% | Connections.csv |
+| Experience Titles | 8% | Positions.csv |
+| Connections | 8% | Connections.csv |
+| Experience Duration | 5% | Positions.csv |
 | Activity | 5% | Shares.csv / Posts.csv |
+| Interests | 4% | Profile.csv (interests/following) |
+| Profile Language | 4% | Profile.csv (language field) |
 | Location | 4% | Profile.csv |
 | Contact Info | 4% | Profile.csv + Email Addresses.csv |
-| Name | 3% | Profile.csv |
-| Education | 5% | Education.csv |
-| Certifications | 4% | Certifications.csv |
+| Certifications | 3% | Certifications.csv |
+| Education | 3% | Education.csv |
+| Name | 2% | Profile.csv |
 
 ### Step 4: Manual Checklist
 
-Present 6 items that cannot be verified from the data export. These are things the user needs to check themselves. For each item, explain:
+Present 7 items that cannot be verified from the data export. These are things the user needs to check themselves. For each item, explain:
 1. Where to find it (exact navigation path in LinkedIn)
 2. What to look for
 3. What the recommendation is if it needs fixing

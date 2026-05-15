@@ -42,11 +42,11 @@ Upload `SKILL.md` along with `references/scoring_rubric.md` and `references/manu
 
 ## What Gets Analyzed
 
-**14 automated sections** scored from your exported data:
-- Headline, About section, Experience (titles, descriptions, duration), Skills, Recommendations, Connections, Activity, Location, Contact Info, Name, Education, Certifications
+**16 automated sections** scored from your exported data:
+- Headline, About section, Experience (titles, descriptions, duration), Skills, Connections, Activity, Interests, Profile Language, Location, Contact Info, Name, Education, Certifications
 
-**6 manual checklist items** for things that can't be verified from the export:
-- Custom URL, Profile Photo, Cover Photo, Featured Section, Open to Work settings, Privacy/Visibility
+**7 manual checklist items** for things that can't be verified from the export:
+- Open to Work, Profile Photo, Privacy/Visibility, Recommendations, Featured Section, Custom URL, Cover Photo
 
 ## Output
 
