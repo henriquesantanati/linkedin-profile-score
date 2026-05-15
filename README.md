@@ -1,5 +1,9 @@
 # LinkedIn Profile Score
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/henriquesantanati/linkedin-profile-score)](https://github.com/henriquesantanati/linkedin-profile-score/releases)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 > Scoring criteria inspired by [Nicole Barra's guide on LinkedIn profile optimization](https://www.linkedin.com/pulse/optimizing-your-linkedin-profile-international-guide-nicole-barra--ujebf/).
 
 A skill that audits your LinkedIn profile and produces a score with actionable recommendations to improve recruiter visibility and hiring chances. Analyzes your exported LinkedIn data (native CSV format) against recruiter search behavior, keyword optimization best practices, and credibility signals. Produces a 0-100 score with per-section breakdown and specific fixes ranked by impact.
@@ -60,6 +64,10 @@ This tool generates recommendations based on general LinkedIn optimization best 
 
 For example, the tool might flag a term as too niche when it's actually well-known in your field, or suggest removing something that differentiates you. Treat the output as a starting point for reflection, not a checklist to follow blindly.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to submit improvements to scoring criteria, output format, or CSV compatibility.
+
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE) for details.
