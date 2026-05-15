@@ -74,6 +74,19 @@ Looking for Senior Data Engineer roles where I can architect systems from the gr
 
 ---
 
+### 🟡 Experience Descriptions (7/10)
+
+**Problem:** Recent roles have metrics; older roles are one-liners.
+
+**Recommendation:** Add 2-3 bullet points to older roles with scale and outcome.
+
+**Steps:**
+1. Click pencil on older roles
+2. Add lines: [Action verb] + [what] + [scale] + [tech]
+3. Click Save
+
+---
+
 ### 🔴 Activity (5/10)
 
 **Problem:** No original posts in 3 months. LinkedIn deprioritizes inactive profiles.
@@ -111,19 +124,6 @@ Looking for Senior Data Engineer roles where I can architect systems from the gr
 **Steps:**
 1. Go to Experience, click pencil on the role
 2. Change to standard title
-3. Click Save
-
----
-
-### 🟡 Experience Descriptions (7/10)
-
-**Problem:** Recent roles have metrics; older roles are one-liners.
-
-**Recommendation:** Add 2-3 bullet points to older roles with scale and outcome.
-
-**Steps:**
-1. Click pencil on older roles
-2. Add lines: [Action verb] + [what] + [scale] + [tech]
 3. Click Save
 
 ---
