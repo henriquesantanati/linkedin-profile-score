@@ -27,6 +27,9 @@ This skill requires the user's LinkedIn data exported as CSV files (the default 
 | `Skills.csv` | Listed skills |
 | `Connections.csv` | Network connections |
 | `Shares.csv` or `Posts.csv` | Posts and activity |
+| `Company Follows.csv` | Companies and organizations followed |
+| `Member_Follows.csv` | People followed |
+| `Languages.csv` | Profile language proficiency |
 | `Certifications.csv` | Licenses and certifications |
 | `Education.csv` | Educational background |
 | `Email Addresses.csv` | Contact email(s) |
