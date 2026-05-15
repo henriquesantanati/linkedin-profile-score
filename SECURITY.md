@@ -6,7 +6,9 @@ If you discover a security vulnerability in this project, please report it respo
 
 **Do not open a public GitHub issue for security vulnerabilities.**
 
-Instead, send an email to <henrique.santana.ti@gmail.com> with:
+Instead, use [GitHub's private vulnerability reporting](https://github.com/henriquesantanati/linkedin-profile-score/security/advisories/new) to submit your report directly. This keeps the details confidential until a fix is available.
+
+Please include:
 
 - A description of the vulnerability
 - Steps to reproduce
