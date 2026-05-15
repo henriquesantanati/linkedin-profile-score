@@ -42,20 +42,22 @@ Note: LinkedIn occasionally changes file names between export versions. If a fil
 
 Ask the user for the path to their unzipped LinkedIn data export folder. List the CSV files found and confirm which ones are available before proceeding.
 
+**Privacy note:** Inform the user that their export contains personal data (name, email, work history, connections). This data is processed locally by the LLM and is not stored or shared, but the user should be aware of what they are providing.
+
 ### Step 2: Read Profile Data
 
 Read all available CSV files. Parse them as standard CSV (comma-delimited, with headers in the first row). Track which files are present and which are missing. Missing files mean those sections receive no score (not zero, just excluded from the weighted calculation and weights redistributed proportionally).
 
 ### Step 3: Automated Analysis
 
-Analyze 16 sections using the criteria in `references/scoring_rubric.md`. For each section:
+Analyze 15 sections using the criteria in `references/scoring_rubric.md`. For each section:
 - Assign a score from 1 to 5
 - Identify specific issues found
 - Write one concrete recommendation (what to change and why)
 
 If the user specified a target role, incorporate keyword gap analysis directly into each section's recommendation. When suggesting a rewritten headline, About section, or experience bullet, include the missing keywords naturally. Do not create a separate keywords section — the fixes should already contain the right keywords.
 
-The 16 sections and their weights:
+The 15 sections and their weights:
 
 | Section | Weight | Source File |
 |---------|--------|-------------|
@@ -88,7 +90,7 @@ Read `references/manual_checklist.md` for the full checklist with context. Do NO
 
 **Score formula:**
 - Each section is scored 1-5 internally, then multiplied by 2 for the report display (2-10 scale)
-- The automated score is a weighted average of displayed scores (max 88 points across 16 sections at weight 100%)
+- Automated score = (weighted average of displayed scores / 10) × 88. Example: if weighted avg is 7.5, automated = 7.5/10 × 88 = 66
 - Manual checklist items add up to +12 bonus points (see manual_checklist.md for per-item values)
 - Final score = automated + manual bonus, capped at 100
 - If data is missing for a section, exclude it and redistribute its weight proportionally among remaining sections
@@ -119,7 +121,7 @@ Read `references/manual_checklist.md` for the full checklist with context. Do NO
 |---------|-------|---|
 | [Section] | X/10 | 🔴 |
 
-Color indicators: 🔴 (1-5), 🟡 (6-7), 🟢 (8-10). Only sections needing improvement are listed individually. Sections scoring 9-10 are grouped at the bottom as:
+Color indicators: 🔴 (1-5), 🟡 (6-7), 🟢 (8-10). Only sections scoring below 8 are listed individually in the Scores table. Sections scoring 8-10 are grouped at the bottom as:
 
 ✅ **All good:** [Section (score), Section (score), ...]
 
@@ -127,7 +129,7 @@ Color indicators: 🔴 (1-5), 🟡 (6-7), 🟢 (8-10). Only sections needing imp
 
 ## What to Fix
 
-For EVERY section that scored below 9, provide:
+For EVERY section that scored below 8, provide:
 
 ### 🔴 [Section Name] (X/10)
 

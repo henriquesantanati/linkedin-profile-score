@@ -46,7 +46,7 @@ Items are ordered by impact — address them in this order.
 
 **If no:** Check these settings:
 - Settings → Visibility → Profile viewing options: choose "Your name and headline"
-- Settings → Visibility → Who can see your connections: "Anyone" or "Connections"
+- Settings → Visibility → Who can see your connections: "Connections" (avoid "Anyone" — it exposes your full network to competitors and your current employer's recruiters)
 - Settings → Data Privacy → Review if "AI Improvement" settings match your preferences
 - Ensure your profile is set to "Public" for maximum discoverability
 

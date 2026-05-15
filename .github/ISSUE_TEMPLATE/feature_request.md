@@ -1,9 +1,11 @@
 ---
+---
 name: Feature request
 about: New scoring section, output improvement, or workflow change
 title: ''
 labels: enhancement
 assignees: ''
+---
 ---
 
 **What would you like to change or add?**

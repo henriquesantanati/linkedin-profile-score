@@ -1,10 +1,10 @@
 # 🎯 LinkedIn Profile Score
 
-## 61/100 — Grade C
+## 59/100 — Grade C
 
 Your experience is solid but recruiters cannot find you. The headline is generic, the About section is almost empty, and your skills list is diluted with soft skills that add no search value.
 
-**Fix priority:** Headline → About → Skills → Activity → Interests → Experience Descriptions → Contact Info
+**Fix priority:** Headline → About → Skills → Activity → Interests → Experience Titles → Experience Descriptions → Contact Info
 
 
 ## Scores

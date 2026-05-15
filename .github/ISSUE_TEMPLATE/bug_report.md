@@ -1,9 +1,11 @@
 ---
+---
 name: Bug report
 about: Scoring issue, CSV parsing problem, or outdated recommendation
 title: ''
 labels: bug
 assignees: ''
+---
 ---
 
 **What happened?**

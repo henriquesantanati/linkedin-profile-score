@@ -1,6 +1,6 @@
 # Scoring Rubric
 
-Detailed criteria for each of the 16 automated sections. Each section is scored 1-5.
+Detailed criteria for each of the 15 automated sections. Each section is scored 1-5.
 
 ---
 
@@ -89,7 +89,9 @@ Descriptions should demonstrate impact through accomplishments, not list respons
 - Descriptions that read like a job posting rather than personal accomplishments
 
 **Good example:**
-"Led migration of monolithic application to microservices architecture serving 2M daily users, reducing deployment time from 2 hours to 15 minutes and cutting infrastructure costs by 35%."
+- Led migration of monolithic application to microservices architecture serving 2M daily users
+- Reduced deployment time from 2 hours to 15 minutes through CI/CD pipeline redesign
+- Cut infrastructure costs by 35% via right-sizing and spot instance adoption
 
 **Bad example:**
 "Worked on backend development. Did code reviews. Fixed bugs."
@@ -120,10 +122,11 @@ The About section is an elevator pitch. It should be concise, scannable, and key
 
 **Suggested structure:**
 1. Opening statement (who you are, what you do)
-2. Key skills and expertise (2-3 lines)
+2. Key skills and expertise (2-3 lines — hard skills belong here as keywords)
 3. Experience highlights (1-2 standout achievements)
-4. Career goals (what you're looking for)
-5. Call to action (invite to connect)
+4. Soft skills woven naturally into narrative (e.g., "I lead cross-functional teams" rather than listing "Leadership")
+5. Career goals (what you're looking for)
+6. Call to action (invite to connect)
 
 
 ## 5. Experience Titles (Weight: 8%)
@@ -324,8 +327,8 @@ Certifications provide additional keyword surface area and signal ongoing learni
 | Score | Criteria |
 |-------|----------|
 | 5 | 1-3 relevant, recent certifications from recognized institutions (AWS, Google Cloud, etc.) that reinforce target role keywords. |
-| 4 | Relevant certifications present but slightly dated or not perfectly aligned with current direction. |
-| 3 | Mix of relevant and irrelevant certifications, or from unknown institutions. |
+| 4 | Relevant certifications present (4-6 is fine) but slightly dated or not perfectly aligned with current direction. |
+| 3 | No certifications present (neutral baseline), or mix of relevant and irrelevant certifications from unknown institutions. |
 | 2 | Only outdated or irrelevant certifications that add no keyword value. |
 | 1 | Flooded with low-value credentials ("HTML Basics", "Introduction to...") that dilute credibility. |
 

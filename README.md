@@ -16,7 +16,7 @@ A skill that audits your LinkedIn profile and produces a score with actionable r
 4. Point this skill at the unzipped folder containing the CSV files
 5. Receive your score, section-by-section analysis, and prioritized improvements
 
-The skill reads LinkedIn's native CSV export directly.
+The skill reads LinkedIn's native CSV export directly. Your data stays local — it is processed by the LLM in your session and is not stored or shared externally.
 
 ## Installation
 
@@ -42,7 +42,7 @@ Upload `SKILL.md` along with `references/scoring_rubric.md` and `references/manu
 
 ## What Gets Analyzed
 
-**16 automated sections** scored from your exported data:
+**15 automated sections** scored from your exported data:
 - Headline, About section, Experience (titles, descriptions, duration), Skills, Connections, Activity, Interests, Profile Language, Location, Contact Info, Name, Education, Certifications
 
 **7 manual checklist items** for things that can't be verified from the export:
