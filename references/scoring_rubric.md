@@ -220,7 +220,7 @@ Regular activity signals engagement and boosts algorithmic visibility.
 
 ## 9. Interests (Weight: 4%)
 
-**Source:** Profile.csv (interests/following data, if available in export)
+**Source:** Company Follows.csv + Member_Follows.csv
 
 Following relevant companies, influencers, and groups signals intent to LinkedIn's algorithm and creates additional keyword surface area on your profile.
 
@@ -249,7 +249,7 @@ Following relevant companies, influencers, and groups signals intent to LinkedIn
 
 ## 10. Profile Language (Weight: 4%)
 
-**Source:** Profile.csv (language field and content language)
+**Source:** Languages.csv + Profile.csv (content language)
 
 The profile must be written in the language of your target job market. A profile in Portuguese targeting US roles, or in English targeting the French market, creates friction for recruiters.
 

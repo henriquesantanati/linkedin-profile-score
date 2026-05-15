@@ -67,8 +67,8 @@ The 16 sections and their weights:
 | Connections | 8% | Connections.csv |
 | Experience Duration | 5% | Positions.csv |
 | Activity | 5% | Shares.csv / Posts.csv |
-| Interests | 4% | Profile.csv (interests/following) |
-| Profile Language | 4% | Profile.csv (language field) |
+| Interests | 4% | Company Follows.csv + Member_Follows.csv |
+| Profile Language | 4% | Languages.csv |
 | Location | 4% | Profile.csv |
 | Contact Info | 4% | Profile.csv + Email Addresses.csv |
 | Certifications | 3% | Certifications.csv |
@@ -141,7 +141,7 @@ Use 🔴 for scores 1-5, 🟡 for scores 6-7 in the section headers. Separate ea
 
 ## Manual Checks
 
-These 6 items cannot be verified from your data export. Check each one:
+These 7 items cannot be verified from your data export. Check each one:
 
 ### 1. [Item Name]
 **Where:** [Exact LinkedIn navigation path]

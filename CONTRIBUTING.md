@@ -8,7 +8,7 @@ This is a Claude skill (not a traditional software project). The "code" is struc
 
 - `SKILL.md` — main workflow and output format
 - `references/scoring_rubric.md` — per-section scoring criteria (1-5 scale)
-- `references/manual_checklist.md` — 6 items users check manually
+- `references/manual_checklist.md` — 7 items users check manually
 - `assets/sample_report.md` — example output for calibration
 
 ## What to Contribute
