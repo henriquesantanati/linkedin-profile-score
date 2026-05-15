@@ -328,8 +328,7 @@ Certifications provide additional keyword surface area and signal ongoing learni
 |-------|----------|
 | 5 | 1-3 relevant, recent certifications from recognized institutions (AWS, Google Cloud, etc.) that reinforce target role keywords. |
 | 4 | Relevant certifications present (4-6 is fine) but slightly dated or not perfectly aligned with current direction. |
-| 3 | No certifications present (neutral — no keyword benefit, nothing harmful). |
-| 2.5 | Mix of relevant and irrelevant certifications, or from unknown institutions. |
+| 3 | No certifications present (neutral — no keyword benefit, nothing harmful), or mix of relevant and irrelevant certifications from unknown institutions. |
 | 2 | Only outdated or irrelevant certifications that add no keyword value. |
 | 1 | Flooded with low-value credentials ("HTML Basics", "Introduction to...") that dilute credibility. |
 
@@ -339,7 +338,7 @@ Certifications provide additional keyword surface area and signal ongoing learni
 - Too many certifications (7+) diluting the signal
 - Certifications that contradict career direction
 
-**Important:** Do NOT penalize the absence of certifications. A score of 3 is the floor for someone with no certifications — it means "neutral, no keyword benefit captured here but nothing wrong either." Only score below 3 if certifications are present but harmful (irrelevant, expired, low-value). Frame recommendations as: "Adding a relevant certification here would give you extra keyword surface for [skill]" rather than "You're missing certifications."
+**Important:** Do NOT penalize the absence of certifications. If the Certifications.csv file is missing from the export, score this section 6/10 (neutral baseline). If the file is present but empty, also score 6/10. Only score below 6 if certifications are present but harmful (irrelevant, expired, low-value). Frame recommendations as: "Adding a relevant certification here would give you extra keyword surface for [skill]" rather than "You're missing certifications."
 
 
 ## 14. Education (Weight: 3%)

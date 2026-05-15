@@ -7,7 +7,7 @@ Thanks for your interest in improving this skill. Here is how to contribute.
 This is a Claude skill (not a traditional software project). The "code" is structured markdown that instructs an LLM how to analyze LinkedIn profiles. Changes to scoring criteria, recommendations, or output format all happen in these files:
 
 - `SKILL.md` — main workflow and output format
-- `references/scoring_rubric.md` — per-section scoring criteria (1-5 scale)
+- `references/scoring_rubric.md` — per-section scoring criteria (1-10 scale)
 - `references/manual_checklist.md` — 7 items users check manually
 - `assets/sample_report.md` — example output for calibration
 

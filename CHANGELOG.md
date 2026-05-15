@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Certifications weight reduced from 4% to 3%; absence is no longer penalized (floor score is 3, not 1)
 - Education weight reduced from 5% to 3% — less relevant for experienced professionals
 - Name weight reduced from 3% to 2%
-- Open to Work moved to #1 position in manual checklist (was #5) with highest point bonus (+3)
+- Open to Work moved to #1 position in manual checklist (was #5)
 
 ### Added
 - Interests section (4% weight) — following relevant companies/influencers signals intent to the algorithm

@@ -1,6 +1,6 @@
 # 🎯 LinkedIn Profile Score
 
-## 66/100 — Grade C
+## 68/100 — Grade C
 
 Your experience is solid but recruiters cannot find you. The headline is generic, the About section is almost empty, and your skills list is diluted with soft skills that add no search value.
 
@@ -12,7 +12,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 | Section | Score | |
 |---------|-------|---|
 | Headline | 5/10 | 🔴 |
-| About | 2/10 | 🔴 |
+| About | 4/10 | 🔴 |
 | Skills | 6/10 | 🟡 |
 | Activity | 5/10 | 🔴 |
 | Interests | 4/10 | 🔴 |
@@ -39,7 +39,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### 🔴 About (2/10)
+### 🔴 About (4/10)
 
 **Problem:** Two sentences with no structure. Recruiters skim this in 5 seconds and yours gives them nothing to work with.
 

@@ -91,7 +91,7 @@ Read `references/manual_checklist.md` for the full checklist with context. Do NO
 **Score formula:**
 - Score each section on a 1-10 scale using the criteria in scoring_rubric.md as guidance (rubric defines 1-5 anchors; use the full 1-10 range for finer granularity)
 - Final score = weighted average of all section scores, expressed as a percentage (0-100)
-- Formula: sum(section_score × section_weight) / 10 × 100. Example: if weighted sum is 6.7, score = 67/100
+- Formula: sum(section_score × section_weight_as_decimal) / 10 × 100. Weights are decimals: 15% = 0.15. Example: if weighted sum is 6.7, score = 67/100
 - If data is missing for a section, exclude it and redistribute its weight proportionally among remaining sections
 - The manual checklist is presented separately as guidance — it does not affect the numerical score
 
@@ -140,7 +140,7 @@ For EVERY section that scored below 8, provide:
 **Steps:**
 1. [Step-by-step instructions to make the change on LinkedIn]
 
-Use 🔴 for scores 1-5, 🟡 for scores 6-7 in the section headers. Separate each section with ---.
+Use 🔴 for scores 1-5, 🟡 for scores 6-7 in the section headers.
 
 ---
 
