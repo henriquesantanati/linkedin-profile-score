@@ -1,31 +1,31 @@
-# LinkedIn Profile Score
+# 🎯 LinkedIn Profile Score
 
-## 61/100 - Grade C
+## 61/100 — Grade C
 
 Your experience is solid but recruiters cannot find you. The headline is generic, the About section is almost empty, and your skills list is diluted with soft skills that add no search value.
 
-**Fix priority:** Headline > About > Skills > Activity > Interests > Experience Descriptions > Contact Info
+**Fix priority:** Headline → About → Skills → Activity → Interests → Experience Descriptions → Contact Info
 
 
 ## Scores
 
 | Section | Score | |
 |---------|-------|---|
-| Headline | 5/10 | RED |
-| About | 3/10 | RED |
-| Skills | 6/10 | YELLOW |
-| Activity | 5/10 | RED |
-| Interests | 4/10 | RED |
-| Experience Titles | 7/10 | YELLOW |
-| Experience Descriptions | 7/10 | YELLOW |
-| Contact Info | 7/10 | YELLOW |
+| Headline | 5/10 | 🔴 |
+| About | 3/10 | 🔴 |
+| Skills | 6/10 | 🟡 |
+| Activity | 5/10 | 🔴 |
+| Interests | 4/10 | 🔴 |
+| Experience Titles | 7/10 | 🟡 |
+| Experience Descriptions | 7/10 | 🟡 |
+| Contact Info | 7/10 | 🟡 |
 
-**All good:** Name (10), Location (10), Duration (10), Connections (10), Education (8), Certifications (8), Profile Language (10)
+✅ **All good:** Name (10), Location (10), Duration (10), Connections (10), Education (8), Certifications (8), Profile Language (10)
 
 
 ## What to Fix
 
-### Headline (5/10)
+### 🔴 Headline (5/10)
 
 **Problem:** You are using the default LinkedIn format. Recruiters search by tech stack and domain, not company name.
 
@@ -39,7 +39,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### About (3/10)
+### 🔴 About (3/10)
 
 **Problem:** Two sentences with no structure. Recruiters skim this in 5 seconds and yours gives them nothing to work with.
 
@@ -52,7 +52,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### Skills (6/10)
+### 🟡 Skills (6/10)
 
 **Problem:** Soft skills taking space. Skills not consistent across About and Experience sections.
 
@@ -66,7 +66,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### Activity (5/10)
+### 🔴 Activity (5/10)
 
 **Problem:** No original posts in 3 months. LinkedIn deprioritizes inactive profiles.
 
@@ -80,7 +80,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### Interests (4/10)
+### 🔴 Interests (4/10)
 
 **Problem:** Few company follows, none in target industry. No thought leaders followed.
 
@@ -94,7 +94,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### Experience Titles (7/10)
+### 🟡 Experience Titles (7/10)
 
 **Problem:** Internal nomenclature used. Recruiters search standard titles.
 
@@ -107,7 +107,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### Experience Descriptions (7/10)
+### 🟡 Experience Descriptions (7/10)
 
 **Problem:** Recent roles have metrics; older roles are one-liners.
 
@@ -120,7 +120,7 @@ Your experience is solid but recruiters cannot find you. The headline is generic
 
 ---
 
-### Contact Info (7/10)
+### 🟡 Contact Info (7/10)
 
 **Problem:** No GitHub link. Recruiters check GitHub for engineering roles.
 

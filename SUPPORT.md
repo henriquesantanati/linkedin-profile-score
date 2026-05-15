@@ -3,7 +3,7 @@
 ## How to Get Help
 
 **Have a question about using this skill?**
-Open a [GitHub Discussion](https://github.com/henriquesantanati/linkedin-profile-score/discussions) (once enabled) or start a conversation in the Issues tab with the label `question`.
+Open a [GitHub Discussion](https://github.com/henriquesantanati/linkedin-profile-score/discussions) or start a conversation in the Issues tab with the label `question`.
 
 **Found a bug or incorrect scoring?**
 Open a [bug report](https://github.com/henriquesantanati/linkedin-profile-score/issues/new?template=bug_report.md).

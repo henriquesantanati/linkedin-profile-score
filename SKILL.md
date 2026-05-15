@@ -87,8 +87,11 @@ Read `references/manual_checklist.md` for the full checklist with context. Do NO
 ### Step 5: Calculate Score and Generate Report
 
 **Score formula:**
-- Weighted average of section scores (using weights from Step 3), normalized to 0-100 scale
-- Only scored from sections where data is available
+- Each section is scored 1-5 internally, then multiplied by 2 for the report display (2-10 scale)
+- The automated score is a weighted average of displayed scores (max 88 points across 16 sections at weight 100%)
+- Manual checklist items add up to +12 bonus points (see manual_checklist.md for per-item values)
+- Final score = automated + manual bonus, capped at 100
+- If data is missing for a section, exclude it and redistribute its weight proportionally among remaining sections
 
 **Grade thresholds:**
 - A (90-100): Profile is optimized for recruiter visibility.
@@ -160,4 +163,4 @@ See `assets/sample_report.md` for a complete example output.
 
 ## Credits
 
-Scoring criteria inspired by Nicole Barra's guide on LinkedIn profile optimization.
+Scoring methodology developed with direct input from [Nicole Barra](https://www.linkedin.com/in/nicole-barra/), LinkedIn optimization specialist whose research on recruiter search behavior informed the section weights, tier priorities, and scoring criteria in v2.0.0.
